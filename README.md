@@ -1,1 +1,1 @@
-# Holidat detector PCB files for Altium Designer 18
+# Holiday detector PCB files for Altium Designer 18
