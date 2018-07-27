@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [holiday_detector.PrjPcb]
+   Generated File[holiday_detector.TXT]
+   Generated File[holiday_detector.LDP]
+   Generated File[holiday_detector.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:33:31 AM On 2/27/2014

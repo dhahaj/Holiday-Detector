@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: holiday_detector.PcbDoc   2/27/2014  11:33:31 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : holiday_detector.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        38mil (0.9652mm)         Round          5                0.65 Inch (16.53 mm)
+T2        39.37mil (1mm)           Round          2                0.59 Inch (15.00 mm)
+T3        43.31mil (1.10007mm)     Round          2                0.20 Inch (5.08 mm)
+T4        44mil (1.1176mm)         Round          6                1.70 Inch (43.18 mm)
+T5        47.24mil (1.1999mm)      Round          2                0.41 Inch (10.46 mm)
+T6        48mil (1.2192mm)         Round          10               10.29 Inch (261.45 mm)
+T7        80mil (2.032mm)          Round          2                0.22 Inch (5.72 mm)
+T8        82.68mil (2.10007mm)     Round          3                0.37 Inch (9.40 mm)
+T9        90mil (2.286mm)          Round          6                2.97 Inch (75.57 mm)
+T10       111mil (2.8194mm)        Round          4                10.70 Inch (271.78 mm)
+T11       130mil (3.302mm)         Round          12               9.28 Inch (235.76 mm)
+---------------------------------------------------------------------------
+Totals                                            54               37.40 Inch (949.92 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

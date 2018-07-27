@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CHASSIS Pin=RELAY1-1
+Removed Pin From Net: NetName=NetHORN1_1 Pin=RELAY1-3
+Removed Pin From Net: NetName=VCC Pin=RELAY1-4
+Removed Pin From Net: NetName=NetHORN1_2 Pin=RELAY1-6
+Removed Pin From Net: NetName=VCC Pin=RELAY1-7
+Removed Pin From Net: NetName=+LEAD Pin=RELAY1-8
+Change Component Footprint: Designator=RELAY1 Old Footprint=DIP-P8 New Footprint=OM_G2R
+Added Pin To Net: NetName=+LEAD Pin=RELAY1-1
+Added Pin To Net: NetName=CHASSIS Pin=RELAY1-3
+Added Pin To Net: NetName=NetHORN1_1 Pin=RELAY1-4
+Added Pin To Net: NetName=NetHORN1_2 Pin=RELAY1-5
+Added Pin To Net: NetName=VCC Pin=RELAY1-6
+Added Pin To Net: NetName=VCC Pin=RELAY1-8
+Added Room: Name=holiday_detector

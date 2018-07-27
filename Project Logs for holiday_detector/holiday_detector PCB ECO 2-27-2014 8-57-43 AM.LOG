@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=GNDD Pin=K1-6
+Change Net Name : Old Net Name=GND New Net Name=SW_GND
+Change Net Name : Old Net Name=GNDD New Net Name=GND

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=HORN Old Footprint=PIN2 New Footprint=BUZZER
+Change Component Comment : Designator=ZD1 Old Comment=1N5253B New Comment=*
+Change Component Comment : Designator=VR1 Old Comment=ADJ New Comment=RPot
+Added Member To Class: ClassName=holiday_detector Member=Component S2 ADJUST

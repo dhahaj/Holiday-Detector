@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=CHASSIS Pin=K1-3
+Removed Pin From Net: NetName=VCC Pin=K1-6
+Change Component DesignItemId : Designator=HORN1 Old DesignItemId=Buzzer New DesignItemId=Speaker
+Change Component DesignItemId : Designator=S1 Old DesignItemId=SW-PB New DesignItemId=SW-SPST
+Change Component Footprint: Designator=HORN1 Old Footprint=ABSM-1574 New Footprint=PIN2
+Change Component Footprint: Designator=LED1 Old Footprint=LED-1 New Footprint=LED_2
+Change Component Comment : Designator=ZD1 Old Comment=25V New Comment=1N5253B
+Change Component Comment : Designator=S2 Old Comment=ADJ New Comment=ADJUST
+Change Component Comment : Designator=B1 Old Comment=BATT_CLIP New Comment=9V CLIP
+Change Component Comment : Designator=B2 Old Comment=BATT_CLIP New Comment=9V CLIP
+Change Component Comment : Designator=B3 Old Comment=BATT_CLIP New Comment=9V CLIP
+Change Component Comment : Designator=HORN1 Old Comment=Buzzer New Comment=Speaker
+Change Component Comment : Designator=D1 Old Comment=Diode 1N4001 New Comment=1N4001
+Change Component Designator: OldDesignator=HORN1 NewDesignator=HORN
+Change Component Designator: OldDesignator=R2 NewDesignator=VR1
+Change Component Description : Designator=B1 Old Description= New Description=PCB MOUNT 9V BATTERY CLIP
+Change Component Description : Designator=B2 Old Description= New Description=PCB MOUNT 9V BATTERY CLIP
+Change Component Description : Designator=B3 Old Description= New Description=PCB MOUNT 9V BATTERY CLIP
+Change Component Description : Designator=S1 Old Description=Switch New Description=SPST SLIDE SW
+Change Component Description : Designator=S2 Old Description=Switch New Description=TACTILE SW
+Change Component Description : Designator=S3 Old Description=Switch New Description=TACTILE SW
+Added Component: Designator=+LEAD(TP_80_MIL)
+Added Component: Designator=CHASSIS(TP_80_MIL)
+Added Pin To Net: NetName=+LEAD Pin=+LEAD-1
+Added Pin To Net: NetName=NetB3_2 Pin=CHASSIS-1
+Added Pin To Net: NetName=VCC Pin=K1-3
+Added Pin To Net: NetName=CHASSIS Pin=K1-6
+Change Net Name : Old Net Name=+LEAD New Net Name=Net+LEAD_1
+Change Net Name : Old Net Name=CHASSIS New Net Name=GND
+Change Net Name : Old Net Name=VCC New Net Name=27V
+Added Pin To Net: NetName=NetHORN_1 Pin=HORN-1
+Added Pin To Net: NetName=NetHORN_1 Pin=K1-4
+Added Net: Name=NetHORN_1
+Added Pin To Net: NetName=NetHORN_2 Pin=HORN-2
+Added Pin To Net: NetName=NetHORN_2 Pin=K1-5
+Added Net: Name=NetHORN_2
+Added Member To Class: ClassName=holiday_detector Member=Component +LEAD TP_80_MIL
+Added Member To Class: ClassName=holiday_detector Member=Component CHASSIS TP_80_MIL

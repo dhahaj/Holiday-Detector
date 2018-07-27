@@ -1,0 +1,54 @@
+Added Component: Designator=BATT1(BAT-2)
+Added Component: Designator=D1(DO-41)
+Added Component: Designator=HORN1(ABSM-1574)
+Added Component: Designator=LED1(LED-1)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(VR5)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=RELAY1(DIP-P8)
+Added Component: Designator=S1(SPST-2)
+Added Component: Designator=S2(SPST-2)
+Added Component: Designator=S3(SPST-2)
+Added Component: Designator=ZD1(DIODE-0.7)
+Added Pin To Net: NetName=+LEAD Pin=D1-1
+Added Pin To Net: NetName=+LEAD Pin=R2-1
+Added Pin To Net: NetName=+LEAD Pin=RELAY1-8
+Added Pin To Net: NetName=+LEAD Pin=S2-1
+Added Net: Name=+LEAD
+Added Pin To Net: NetName=CHASSIS Pin=R1-2
+Added Pin To Net: NetName=CHASSIS Pin=R2-3
+Added Pin To Net: NetName=CHASSIS Pin=RELAY1-1
+Added Pin To Net: NetName=CHASSIS Pin=S1-2
+Added Net: Name=CHASSIS
+Added Pin To Net: NetName=NetBATT1_2 Pin=BATT1-2
+Added Pin To Net: NetName=NetBATT1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetBATT1_2 Pin=S1-1
+Added Net: Name=NetBATT1_2
+Added Pin To Net: NetName=NetHORN1_1 Pin=HORN1-1
+Added Pin To Net: NetName=NetHORN1_1 Pin=HORN1-1A
+Added Pin To Net: NetName=NetHORN1_1 Pin=RELAY1-3
+Added Net: Name=NetHORN1_1
+Added Pin To Net: NetName=NetHORN1_2 Pin=HORN1-2
+Added Pin To Net: NetName=NetHORN1_2 Pin=HORN1-2A
+Added Pin To Net: NetName=NetHORN1_2 Pin=RELAY1-6
+Added Net: Name=NetHORN1_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=ZD1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=S2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=S3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetS3_2 Pin=S3-2
+Added Pin To Net: NetName=NetS3_2 Pin=ZD1-2
+Added Net: Name=NetS3_2
+Added Pin To Net: NetName=VCC Pin=BATT1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=RELAY1-4
+Added Pin To Net: NetName=VCC Pin=RELAY1-7
+Added Net: Name=VCC
+Added Class: Name=holiday_detector
+Added Room: Name=holiday_detector
